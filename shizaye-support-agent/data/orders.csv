@@ -1,7 +1,0 @@
-order_id,customer_name,phone,item,status,branch,date
-ORD1001,Amina Yusuf,08031234567,Tecno Spark 20,Delivered,Kaduna Main,2026-06-20
-ORD1002,Chidi Okafor,08129876543,Samsung A15,Processing,Zaria Branch,2026-06-28
-ORD1003,Fatima Bello,07051112233,MTN SIM Registration,Completed,Kafanchan Branch,2026-06-30
-ORD1004,John Danladi,08165554433,Infinix Note 30,Shipped,Kaduna Main,2026-07-01
-ORD1005,Grace Adamu,09022223344,iPhone 12 UK-used,Delivered,Kaduna South,2026-06-25
-ORD1006,Musa Ibrahim,08033334455,Screen Repair Service,In Progress,Zaria Branch,2026-07-02
