@@ -10,7 +10,7 @@ Data Science bootcamp (ihifix scholarship program).
 [https://shizaye-support-agent-5eadgqtxtgqxbfr7g3b2fz.streamlit.app/](https://shizaye-support-agent-5eadgqtxtgqxbfr7g3b2fz.streamlit.app/)
 
 ## 🎥 Project Video
-[Add your Google Drive video URL here]
+[https://drive.google.com/file/d/1ICGAHT7qffvQBgIdFY8oHxXoqpcwI0KX/view?usp=drivesdk]
 
 ## Problem It Solves
 Shizaye Multilinks handles repetitive customer questions across 8 branches —
